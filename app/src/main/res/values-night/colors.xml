@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="off_white">#F7F7FC</color>
+    <color name="off_dark">#FF152033</color>
+    <color name="default_brand_dark_mode">#FF375FFF</color>
+
+    <color name="background_color">@color/off_dark</color>
+    <color name="button_color">@color/default_brand_dark_mode</color>
+    <color name="button_text_color">@color/off_white</color>
+    <color name="text_color">@color/off_white</color>
+    <color name="status_bar_color">@color/off_dark</color>
+    <color name="icon_tint">@color/white</color>
+    <color name="secondary_accent">@color/default_brand_dark_mode</color>
+    <color name="resend_code">@color/default_brand_dark_mode</color>
+    <color name="count_background">@color/off_white</color>
+    <color name="count_text_color">@color/off_dark</color>
+    <color name="chat_rev_background">@color/off_dark</color>
+    <color name="chat_send_background">@color/default_brand_dark_mode</color>
+    <color name="chat_text_color">@color/off_white</color>
+    <color name="sent_background_color">@color/default_brand_dark_mode</color>
+</resources>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-storage:20.0.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0e407a4b881e9dde750537263231d078/transformed/jetified-firebase-storage-20.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/5cc45ac63cf3ffc0078475194a316550/transformed/jetified-firebase-storage-20.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/5cc45ac63cf3ffc0078475194a316550/transformed/jetified-firebase-storage-20.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/5cc45ac63cf3ffc0078475194a316550/transformed/jetified-firebase-storage-20.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/20.0.1/2e66e2f28eb6e473520d2e64a44b503f01f73c1f/firebase-storage-20.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.google.firebase/firebase-storage/20.0.1/fcad4128b95be5261e34b1d8d81b898f6dd02f6b/firebase-storage-20.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

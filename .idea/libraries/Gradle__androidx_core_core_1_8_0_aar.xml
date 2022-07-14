@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core:1.8.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/91019ece1aff4e358f15f2cb989696e4/transformed/core-1.8.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/91019ece1aff4e358f15f2cb989696e4/transformed/core-1.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/91019ece1aff4e358f15f2cb989696e4/transformed/core-1.8.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/91019ece1aff4e358f15f2cb989696e4/transformed/core-1.8.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/androidx.core/core/1.8.0/6d9dc81a87506edbc4890ff898df98c709a79fdf/core-1.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

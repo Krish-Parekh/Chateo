@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.recyclerview:recyclerview:1.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/chat_nav_graph"
+    app:startDestination="@id/contactFragment">
+
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="com.krish.chateo.chat.contactFragment.ContactFragment"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" >
+        <action
+            android:id="@+id/action_contactFragment_to_messageActivity"
+            app:destination="@id/messageActivity" />
+    </fragment>
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.krish.chateo.chat.chatFragment.ChatFragment"
+        android:label="fragment_chat"
+        tools:layout="@layout/fragment_chat" >
+        <action
+            android:id="@+id/action_chatFragment_to_messageActivity"
+            app:destination="@id/messageActivity" />
+    </fragment>
+    <activity
+        android:id="@+id/messageActivity"
+        android:name="com.krish.chateo.message.MessageActivity"
+        android:label="activity_message"
+        tools:layout="@layout/activity_message" >
+        <argument
+            android:name="receiver"
+            app:argType="com.krish.chateo.model.User" />
+    </activity>
+</navigation>

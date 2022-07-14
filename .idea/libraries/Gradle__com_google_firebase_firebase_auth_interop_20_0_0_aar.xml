@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-auth-interop:20.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/264a5a2a300dbdb88e808f142cbc7aeb/transformed/jetified-firebase-auth-interop-20.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9d563ee054603d7e9b96530aafbfce18/transformed/jetified-firebase-auth-interop-20.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9d563ee054603d7e9b96530aafbfce18/transformed/jetified-firebase-auth-interop-20.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9d563ee054603d7e9b96530aafbfce18/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.google.firebase/firebase-auth-interop/20.0.0/8014b3cbc53e9c14226052dd919055a99d0d46d8/firebase-auth-interop-20.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

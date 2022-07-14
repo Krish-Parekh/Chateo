@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138495286161",
+    "project_id": "chateo-ebd6c",
+    "storage_bucket": "chateo-ebd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138495286161:android:ccf28c024d87d0cff69830",
+        "android_client_info": {
+          "package_name": "com.krish.chateo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138495286161-16d2ea6nd2eappac6nv4tgienpsl9b5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krish.chateo",
+            "certificate_hash": "f1725c74ca843b5aca804282a00fdee318370052"
+          }
+        },
+        {
+          "client_id": "138495286161-bats4fte5lr98ilrh4llhom8b8kpimgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOv35IQb_PJOSGq7sLtULXSda7pfe3TXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138495286161-bats4fte5lr98ilrh4llhom8b8kpimgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

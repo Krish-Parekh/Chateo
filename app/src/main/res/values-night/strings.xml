@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_boarding_text">Connect easily with your family and friends over countries</string>
+    <string name="on_boarding_button_text">Start Messaging</string>
+    <string name="terms_and_condition"><![CDATA[Terms & Privacy Policy]]></string>
+    <string name="chateo_creator">Chateo has been created to help designers for your next project. This UI kit are completely free for personal or commercial purposes. If you have any feedback, reach me out on Instagram</string>
+    <string name="phone_number_description">Please confirm your country code and enter your phone number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_text">Continue</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="verification_text">We have sent you an SMS with the code to \n %s</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="add_icon">add_icon</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="chat">Chat</string>
+    <string name="chateo">Chateo</string>
+    <string name="send_button">Send Button</string>
+    <string name="user_profile_picture">User Profile Picture</string>
+    <string name="type_your_message">Type your message</string>
+    <string name="emoji_button">Emoji Button</string>
+    <string name="by_almayra">Designed - by Almayra</string>
+
+</resources>

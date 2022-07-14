@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/bottom_sheet_corners.xml" value="0.2715" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/chat_icon.xml" value="0.3525" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/chat_icon_smile.xml" value="0.3525" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/count_background.xml" value="0.353" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_chat.xml" value="0.2715" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_chateo_logo.xml" value="0.2875" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_contact.xml" value="0.2715" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_delete_icon.xml" value="0.3675" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_error_placeholder.xml" value="0.294" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_on_boarding_img.xml" value="0.2875" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_person.xml" value="0.3675" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/ic_placeholder.xml" value="0.3675" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/drawable/round_image_view.xml" value="0.363" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/activity_chat.xml" value="0.33" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/activity_message.xml" value="0.33" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/bottom_sheet_dailog.xml" value="0.67" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/chat_list_item.xml" value="0.5" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/chateo_tool_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/contact_list_item.xml" value="0.5" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/contact_tool_bar.xml" value="0.33" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/count_background.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/fragment_chat.xml" value="0.5" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/fragment_contact.xml" value="0.33" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/fragment_otp.xml" value="0.27355072463768115" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/keypad.xml" value="0.33" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/list_item_chat_recv.xml" value="0.5" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/list_item_chat_recv_message.xml" value="0.67" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/list_item_chat_sent.xml" value="0.67" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/list_item_date_header.xml" value="0.5" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/loading_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/layout/login_tool_bar.xml" value="0.27355072463768115" />
+        <entry key="..\:/Android Practice/Chateo/app/src/main/res/menu/chat_activity_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

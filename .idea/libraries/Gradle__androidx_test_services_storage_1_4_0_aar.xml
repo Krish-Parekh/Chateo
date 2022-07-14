@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.services:storage:1.4.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/1dfe40ec59a031def5e5f6c2a43e6085/transformed/jetified-storage-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6798c2935e6d08ae1f72a30ded0b3e36/transformed/jetified-storage-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6798c2935e6d08ae1f72a30ded0b3e36/transformed/jetified-storage-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6798c2935e6d08ae1f72a30ded0b3e36/transformed/jetified-storage-1.4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.0/27088f46bc0ab94523a20ccc56aa27e142662396/storage-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

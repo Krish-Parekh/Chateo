@@ -1,0 +1,78 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+    id 'androidx.navigation.safeargs.kotlin'
+    id 'com.google.gms.google-services'
+    id 'kotlin-parcelize'
+}
+
+android {
+    compileSdk 32
+    println("Delegates : "+getDelegate())
+    defaultConfig {
+        applicationId "com.krish.chateo"
+        minSdk 27
+        targetSdk 32
+        versionCode 1
+        versionName "1.0"
+        println("Delegates : "+getDelegate())
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildFeatures{
+        viewBinding true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.core:core-ktx:1.8.0'
+    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.google.firebase:firebase-auth-ktx:21.0.6'
+    implementation 'com.google.firebase:firebase-firestore-ktx:24.2.0'
+    implementation 'com.google.firebase:firebase-storage-ktx:20.0.1'
+    implementation 'com.google.firebase:firebase-database-ktx:20.0.5'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
+    implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+
+    // country-code-picker
+    implementation "com.hbb20:ccp:$country_code_picker"
+
+    // lottie-animation
+    implementation "com.airbnb.android:lottie:$lottieVersion"
+
+    // circular-image-view
+    implementation "de.hdodenhof:circleimageview:$circular_version"
+
+    // Image Loading
+    implementation "io.coil-kt:coil:$coil_version"
+
+    // Swipe to Refresh
+    implementation "androidx.swiperefreshlayout:swiperefreshlayout:$swipe_refresh_version"
+
+    // Flexbox
+    implementation "com.google.android.flexbox:flexbox:$flexbox_version"
+
+    // Emoji KeyBoard
+    implementation "com.vanniktech:emoji-google:$emoji_keyboard_version"
+}

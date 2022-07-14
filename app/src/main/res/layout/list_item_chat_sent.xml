@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="30dp"
+    android:clipToPadding="false"
+    android:paddingStart="@dimen/medium_padding"
+    android:paddingTop="@dimen/extra_small_padding"
+    android:paddingEnd="@dimen/medium_padding"
+    android:paddingBottom="@dimen/extra_small_padding">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/sentCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elevation="0dp"
+        app:cardBackgroundColor="@color/chat_send_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shapeAppearance="@style/ChatShapeAppearanceSent">
+
+
+        <com.google.android.flexbox.FlexboxLayout
+            android:id="@+id/flexBoxLayoutSent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/small_padding"
+            app:alignItems="flex_end"
+            app:flexWrap="wrap"
+            app:justifyContent="flex_end">
+
+            <TextView
+                android:id="@+id/message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="5dp"
+                android:fontFamily="@font/mulish_medium"
+                android:textColor="@color/chat_text_color"
+                android:textSize="15sp"
+                tools:text="Hello world how are you what you wanna do this app will work great" />
+
+            <TextView
+                android:id="@+id/messageTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/mulish_regular"
+                android:layout_marginStart="@dimen/medium_margin"
+                android:textColor="@color/chat_text_color"
+                android:textSize="12sp"
+                tools:text="12:00 AM" />
+
+        </com.google.android.flexbox.FlexboxLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

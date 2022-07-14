@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app:androidTest" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/ad856241b29296a14844d732968f189a/transformed/jetified-junit-1.1.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/bbe16d09d930e519e0a6556c5e029d11/transformed/espresso-core-3.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/649693c95b2b5c2465dcdd4a12e1d7fb/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/6d6fea80d8822e03ff68ac0baa943e16/transformed/jetified-emoji-google-release-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/4f44e5f83f7963d55c707e9baddae9bc/transformed/jetified-coil-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/8f5cfebe70a714775f95e054b47772dd/transformed/jetified-coil-base-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/3ffbb35b5a96b46a77ef94be6702e0eb/transformed/navigation-fragment-ktx-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/63cd5aee54c2957165e17bdecfa6ba7f/transformed/navigation-fragment-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/2a8240322aee2a378515815d40a8c9fe/transformed/jetified-fragment-ktx-1.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/9a34ce8f3662cd85431ad117ac51a526/transformed/navigation-ui-ktx-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/d237b5c908464a27f2e82a8dfe7a520e/transformed/navigation-runtime-ktx-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/67086329c9aaae3e45ebf60a6f1e2513/transformed/navigation-ui-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/f28545adb221e86a3bd32694a04c6fee/transformed/navigation-runtime-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/decb73534e86f05451f84688dc26a102/transformed/jetified-activity-ktx-1.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/8948f1210061951012cd61358ac06326/transformed/navigation-common-ktx-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/8da8e8ac525d726da7227d4684bf5bee/transformed/navigation-common-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/ed929e70ab4835f78a7bbf37a600da85/transformed/jetified-lifecycle-viewmodel-ktx-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b7e2de94d6b53025a53156c35a99a5d4/transformed/jetified-lifecycle-runtime-ktx-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/2b2aba3a4182dff38fd343a0e60e95f0/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/f6c3ef8052e8083f60555ec26f7eb1bc/transformed/material-1.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b80d0b1cf26ed2e830b839006f2f0bc1/transformed/jetified-lottie-3.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/5ec5311018f46ff6ef1d78b4ba009785/transformed/jetified-emoji-release-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/900e54230629333f8dc8df8a978e09c7/transformed/appcompat-1.4.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/8b09750d16b95507856d24089c77db43/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/efc183925073f6467373f9039caa66bd/transformed/jetified-firebase-auth-ktx-21.0.6-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/c2f0ff00b6cc8b83e2d0b81a0d4c2024/transformed/jetified-firebase-auth-21.0.6-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/c6da02dca25339667b654a20588eabf7/transformed/jetified-firebase-firestore-ktx-24.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/fd3f760edc8c451447727215c39780f9/transformed/jetified-firebase-storage-ktx-20.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/116c92e2854d56d47b16eb22a512166a/transformed/jetified-firebase-database-ktx-20.0.5-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/1169856af685cdb406aed2c7d2a32b3a/transformed/jetified-firebase-common-ktx-20.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/dd4cfee43f060eb539f6c625abeb70b4/transformed/jetified-firebase-firestore-24.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/11313c83fedeba5dd150df34b878bfe3/transformed/jetified-firebase-storage-20.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/e4ec849e63214fbc945c26ff621d860a/transformed/jetified-firebase-database-20.0.5-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/c7467a5fd091ce5a3f678e8b545aeffd/transformed/jetified-firebase-auth-interop-20.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/4ba0195efd8b2c256f8327610fafb1c6/transformed/jetified-firebase-appcheck-interop-16.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/a0b55edbb15605317b3c68823350f268/transformed/jetified-firebase-common-20.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/eb02da42d60e5d093eb89b46a677fd5a/transformed/jetified-play-services-auth-api-phone-17.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/d8e6de7d82a5902ed8e952b5049c2055/transformed/jetified-play-services-safetynet-17.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b94db728af4f5b2712c8adc1f7622286/transformed/jetified-firebase-database-collection-18.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/cd40bc6e760dd54be3f1c3ae1535464a/transformed/jetified-play-services-base-18.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/0381aebdfeedfd3724ac818cb508fcd2/transformed/jetified-play-services-tasks-18.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/7df4a8a44de252124347ce719ac6b556/transformed/jetified-play-services-basement-18.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/6b59e119dfbb6a7dff03f1dc047fe0c9/transformed/fragment-1.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/9d4f1e3fc80cb6c2fdb7c10a9e7978e3/transformed/jetified-activity-1.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/fa34adc896517b6ba565c03340baa00c/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/5dd15a313bd30e4206390505bdfe3ef1/transformed/jetified-kotlinx-coroutines-android-1.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/e0200e4823a97d96a08950ef4c07d90c/transformed/jetified-grpc-okhttp-1.44.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/218c39febb9d151f455634619fc3aaf6/transformed/jetified-okhttp-2.7.5.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/03ca1efb0ba5db90fb49c3af028224d0/transformed/jetified-okhttp-4.9.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b62a823f58af9a5ba46b4fb934baad63/transformed/jetified-okio-jvm-3.0.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/093cc82c481abd2c1477aadad7431995/transformed/jetified-kotlin-stdlib-jdk8-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/418d9d3b93e79beaefa419de0a9a5ff2/transformed/jetified-kotlin-parcelize-runtime-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/4de70d680690cfedd834239529f5dfde/transformed/runner-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/603b5e22d637303a1be700950079c539/transformed/jetified-junit-4.12.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/248afbb97ce7f07639149167de8f1713/transformed/jetified-hamcrest-integration-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/7ce3e57abc8192d59f00c200ef4be1d9/transformed/jetified-hamcrest-library-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/50ab5b40bbe552633f6e9fb6635f871a/transformed/jetified-hamcrest-core-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/c98c259ef27f81284fe98768a1c63c49/transformed/jetified-core-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b2f55a532d4550fafd0396df89a1d67b/transformed/jetified-core-ktx-1.8.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/5cf9debd8a3e100ff571f62ad9640621/transformed/swiperefreshlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/3016cfb2fc2e1a8948ca8fd661509933/transformed/jetified-storage-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/2c934f995757a0a333e38a15e4d2e840/transformed/monitor-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/2b62e1770cef00e83d0646bba2e8b8f8/transformed/jetified-appcompat-resources-1.4.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b0976f8b20aa2ab4cab1b8e1c91fb6ed/transformed/drawerlayout-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/f2971d443e241be20f12b6ee449e3c72/transformed/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/fccecb1f96e7eefa0f120ae4aae5e8cb/transformed/dynamicanimation-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/a7025e070be0984bf1879eec2171696c/transformed/transition-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/0556d0837783b063b7f401327aaf010f/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b2e23dca1d06cbd96f8524c8adf7ce83/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/796f92a28f4c56e955568b77608d0105/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/14c9b461536b5357ca4bd9ee478ecc3d/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/947ea8375d6eeb80fdf9b227425605fc/transformed/slidingpanelayout-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/cf58f66a07cfe2c4fc908e0c93d8eee8/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/05741f6473fc083c2ae82af5d9599a06/transformed/recyclerview-1.2.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/332f2b9a35728f272d7e3d8094f9ed2e/transformed/customview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/281c168ea4fefa3334b50a96330d415f/transformed/browser-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/5c989a8c0658def11f6d2713aa42679b/transformed/core-1.8.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/e091c4db233acf5562112fe1943a39dd/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/89060a8549d7e8286e307c9072bd97bc/transformed/cardview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/4c41721aad8b34d8ed8049413ba794b8/transformed/jetified-firebase-components-17.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b7185932b9d2bce6bbfd39c5307242c6/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b2e27d3ba8658dbbe97a72d2190887f7/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/26f1f08c114312ab3d66e5f0a63cef32/transformed/jetified-lifecycle-livedata-core-ktx-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/25f9b7e99d243013fbac3ae8c8be66d4/transformed/lifecycle-livedata-core-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/af47d8b445cb08cc189b7735b04ea6fe/transformed/lifecycle-runtime-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/3442356990d2767af4f0e6dbcf7e1d3c/transformed/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/e631b8576e1eb98cd6b6bffaa2a4d64a/transformed/jetified-collection-ktx-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/025eab9182f874b5b3f392eae896acc9/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/09b8fe832871ea08ef97d107e0b4fcc8/transformed/documentfile-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/4501477faabae4e1d118e692ee5d0db2/transformed/print-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/aa89763082a14229b8f07d84c3ef6725/transformed/core-runtime-2.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/d99665776356a4d903eafa14021962fe/transformed/lifecycle-viewmodel-2.5.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/3896524f5a1f0dd3f8f7df219e2675db/transformed/jetified-savedstate-ktx-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/bb299466e5166236fb36d02df2880b6e/transformed/jetified-savedstate-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/e13f639d65093ff418a6ae6ad612933e/transformed/jetified-grpc-protobuf-lite-1.44.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/68bdd52fbf28ef769fee885e71f83dc7/transformed/jetified-grpc-stub-1.44.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/e49d43ab5672e4f84104f17a22b9337b/transformed/jetified-grpc-android-1.44.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/f36866714fa1b704b5b3d71834aea726/transformed/jetified-grpc-core-1.44.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/14e5e874d94e550113cc93ecd50403ce/transformed/jetified-grpc-api-1.44.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/94ffbc672478130b97a849c89a2c70b0/transformed/jetified-guava-30.1.1-android.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/0066c27c6cadaeffb29ed9daa6c59a04/transformed/jetified-jsr305-3.0.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/6f7e1248dde21ddd1c850adc65f609a1/transformed/espresso-idling-resource-3.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/6222ddbe664e5998f5bf4bcf2ef86383/transformed/jetified-javawriter-2.1.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/87f903c8902ff3923c1c6741b837df52/transformed/jetified-javax.inject-1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/b7834c857f52d1448478a35f8b7d5bd6/transformed/jetified-flexbox-3.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/12eb2d3bc1e82752bcb92d3343fa9f7d/transformed/jetified-kotlin-stdlib-jdk7-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/8782de17e46c5ff55188c56737233707/transformed/jetified-kotlin-android-extensions-runtime-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/3fad279961c1684ba6ab98ba968bc1ba/transformed/jetified-kotlin-stdlib-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/828d93984a6c579ea1058ac459ccbe3e/transformed/jetified-kotlin-stdlib-common-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/92a20f296dd149d604be9b25e0209e17/transformed/jetified-annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/c3485f15964556762858a126a54f3ecf/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/bbcfb14052a07b7eabbad3e7f36d34da/transformed/jetified-ccp-2.6.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/ac2ca7011a8a5fe6724492f3306d282a/transformed/jetified-circleimageview-3.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/832144c3576b8083d7a1b3f6fe5ad8d6/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/a703fd040ddc03745f836728fad311a5/transformed/jetified-firebase-annotations-16.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/846015b621ae410bd162dc0fb16d5dcf/transformed/jetified-protolite-well-known-types-18.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/765772f550c80336ffce905aeaffeccd/transformed/jetified-listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/86ea532c541a488e730d2fbf4fea5809/transformed/jetified-protobuf-javalite-3.19.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/69e3b215eabccf6772932c84cb3dfaf3/transformed/jetified-grpc-context-1.44.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/0ac8865ca6dc872d1c1c21bb2de5258d/transformed/jetified-failureaccess-1.0.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/788c2c8096cf37dec976cfc31300b7fc/transformed/jetified-checker-compat-qual-2.5.5.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/5364f5c030412802a1ada593510f2ccb/transformed/jetified-error_prone_annotations-2.5.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/transforms-3/5ddd5b48f811f9640590310ba40a41ca/transformed/jetified-j2objc-annotations-1.3.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-32/android.jar</arg>
+                <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugAndroidTest" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="app_debug" />
+            <stringArg name="apiVersion" arg="1.7" />
+            <stringArg name="languageVersion" arg="1.7" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_app_classes_jar/debug/classes.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-parcelize-compiler/1.7.0/689aa93ef1c15d507cc92d24500524d048347bd9/kotlin-parcelize-compiler-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.7.0/4d09852239f61842072b40b524882fa3caaed371/kotlin-compiler-embeddable-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.7.0/e660b0079fdaf744dc9cc7f6f3aa3c761ec839b0/kotlin-reflect-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.0/a5f42c684ad9003160ef0d0f693ecf0ba7b13549/kotlin-stdlib-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.7.0/3acea1d447587e61bc3e1b3ed6227d9e9ed4ddf1/kotlin-script-runtime-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.7.0/fd56798de80825c673ac93808284c5198ffa2b50/kotlin-daemon-embeddable-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.0/51736992f422993a1e741051bdf3c12801bc1ca1/kotlin-stdlib-common-1.7.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../TheHappyHelpers/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/google-services/debug;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/src/androidTest/java" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Chateo.app.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.5.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup:javawriter:2.1.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.7.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-annotations:16.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.protobuf:protobuf-javalite:3.19.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp:okhttp:2.7.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio-jvm:3.0.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.grpc:grpc-core:1.44.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.grpc:grpc-api:1.44.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.grpc:grpc-context:1.44.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.grpc:grpc-okhttp:1.44.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.grpc:grpc-protobuf-lite:1.44.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.grpc:grpc-stub:1.44.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:guava:30.1.1-android" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.checkerframework:checker-compat-qual:2.5.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.errorprone:error_prone_annotations:2.5.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.j2objc:j2objc-annotations:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-ktx:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:4.9.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.ext:junit:1.1.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-core:3.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:runner:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.services:storage:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test.espresso:espresso-idling-resource:3.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.8.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.4.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.4.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:2.1.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.2.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth-ktx:21.0.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth:21.0.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.browser:browser:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-auth-api-phone:17.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-base:18.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:18.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-tasks:18.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-safetynet:17.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-auth-interop:20.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common:20.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-components:17.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-common-ktx:20.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-firestore-ktx:24.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-firestore:24.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-appcheck-interop:16.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-database-collection:18.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:protolite-well-known-types:18.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.grpc:grpc-android:1.44.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-storage-ktx:20.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-storage:20.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-database-ktx:20.0.5@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.firebase:firebase-database:20.0.5@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime-ktx:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common-ktx:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui-ktx:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.hbb20:ccp:2.6.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.airbnb.android:lottie:3.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: de.hdodenhof:circleimageview:3.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.coil-kt:coil:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.coil-kt:coil-base:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.flexbox:flexbox:3.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.vanniktech:emoji-google-android:0.15.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.vanniktech:emoji-android:0.15.0@aar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Chateo.app.main" />
+</module>

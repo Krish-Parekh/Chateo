@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:viewbinding:7.2.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b39758a4f82478f72aad4dd659765563/transformed/jetified-viewbinding-7.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/196ccbc2f8da75b75d755145932b1aaf/transformed/jetified-viewbinding-7.2.1/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/196ccbc2f8da75b75d755145932b1aaf/transformed/jetified-viewbinding-7.2.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/196ccbc2f8da75b75d755145932b1aaf/transformed/jetified-viewbinding-7.2.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/androidx.databinding/viewbinding/7.2.1/eb67a946aa3c6c8b1aefd1458d67089c2a3fdb/viewbinding-7.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

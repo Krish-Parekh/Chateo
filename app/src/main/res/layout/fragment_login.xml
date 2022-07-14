@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".login.loginFragment.LoginFragment">
+
+
+    <include
+        android:id="@+id/login_tool_bar"
+        layout="@layout/login_tool_bar"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvPhoneNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/mulish_bold"
+        android:padding="@dimen/medium_padding"
+        android:text="@string/enter_your_phone_number"
+        android:textAlignment="center"
+        android:textColor="@color/text_color"
+        android:textSize="22sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/login_tool_bar" />
+
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/mulish_medium"
+        android:padding="@dimen/small_padding"
+        android:text="@string/phone_number_description"
+        android:textAlignment="center"
+        android:textColor="@color/text_color"
+        android:textSize="16sp"
+        app:layout_constraintLeft_toLeftOf="@+id/tvPhoneNumber"
+        app:layout_constraintRight_toRightOf="@+id/tvPhoneNumber"
+        app:layout_constraintTop_toBottomOf="@+id/tvPhoneNumber" />
+
+    <LinearLayout
+        android:id="@+id/phoneNumberLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/medium_margin"
+        android:gravity="center"
+        android:padding="@dimen/medium_padding"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvDescription">
+
+
+        <com.hbb20.CountryCodePicker
+            android:id="@+id/ccp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:ccp_autoDetectCountry="true"
+            app:ccp_contentColor="@color/text_color"
+            app:ccpDialog_backgroundColor="@color/background_color"
+            app:ccpDialog_textColor="@color/text_color"
+            app:ccp_showNameCode="false"
+            app:ccp_textSize="16sp" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etPhoneNumber"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/small_margin"
+            android:layout_weight="1"
+            android:background="@null"
+            android:fontFamily="@font/mulish_medium"
+            android:hint="@string/phone_number"
+            android:imeActionLabel="send"
+            android:imeOptions="actionUnspecified"
+            android:inputType="phone"
+            android:padding="@dimen/small_padding"
+            android:textColor="@color/text_color"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSendVerification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/medium_margin"
+        android:backgroundTint="@color/button_color"
+        android:padding="@dimen/medium_padding"
+        android:text="@string/continue_text"
+        android:textAllCaps="false"
+        android:textColor="@color/button_text_color"
+        android:textSize="16sp"
+        app:cornerRadius="50dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/phoneNumberLayout" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
