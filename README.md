@@ -24,10 +24,10 @@
     <th>Account Detail Screen</th>
   </tr>
   <tr>
-    <td><img src="/preview/splash_screen.png" width="200px" height="420px"></td>
-    <td><img src="/preview/verification_screen.png" width="200px" height="420px"></td>
-    <td><img src="/preview/verification_screen_two.png" width="200px" height="420px"></td>
-    <td><img src="/preview/account_details.png" width="200px" height="420px"></td>
+    <td align="center" valign="middle"><img src="/preview/splash_screen.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/verification_screen.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/verification_screen_two.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/account_details.png" width="60%" height="60%"></td>
   </tr>
 </table>
 
@@ -38,9 +38,9 @@
     <th>Message Screen</th>
   </tr>
   <tr>
-    <td><img src="/preview/contact_fragment.jpeg" width="200px" height="420px"></td>
-    <td><img src="/preview/chat_fragment.jpeg" width="200px" height="420px"></td>
-    <td><img src="/preview/message_activity.jpeg" width="200px" height="420px"></td>
+    <td align="center" valign="middle"><img src="/preview/contact_fragment.jpeg" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/chat_fragment.jpeg" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/message_activity.jpeg" width="60%" height="60%"></td>
   </tr>
 </table>
 
@@ -55,10 +55,10 @@
     <th>Account Detail Screen</th>
   </tr>
   <tr>
-    <td><img src="/preview/splash_screen_dark.png" width="200px" height="420px"></td>
-    <td><img src="/preview/verification_screen_dark.png" width="200px" height="420px"></td>
-    <td><img src="/preview/verification_screen_two_dark.png" width="200px" height="420px"></td>
-    <td><img src="/preview/account_details_dark.png" width="200px" height="420px"></td>
+    <td align="center" valign="middle"><img src="/preview/splash_screen_dark.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/verification_screen_dark.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/verification_screen_two_dark.png" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/account_details_dark.png" width="60%" height="60%"></td>
   </tr>
 </table>
 
@@ -69,8 +69,8 @@
     <th>Message Screen</th>
   </tr>
   <tr>
-    <td><img src="/preview/contact_fragment_dark.jpeg" width="200px" height="420px"></td>
-    <td><img src="/preview/chat_fragment_dark.jpeg" width="200px" height="420px"></td>
-    <td><img src="/preview/message_activity_dark.jpeg" width="200px" height="420px"></td>
+    <td align="center" valign="middle"><img src="/preview/contact_fragment_dark.jpeg" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/chat_fragment_dark.jpeg" width="60%" height="60%"></td>
+    <td align="center" valign="middle"><img src="/preview/message_activity_dark.jpeg" width="60%" height="60%"></td>
   </tr>
 </table>
