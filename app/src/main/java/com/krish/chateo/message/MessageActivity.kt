@@ -3,6 +3,7 @@ package com.krish.chateo.message
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import androidx.navigation.findNavController
 import androidx.navigation.navArgs
 import androidx.recyclerview.widget.LinearLayoutManager
 import coil.load
@@ -93,6 +94,11 @@ class MessageActivity : AppCompatActivity() {
                 binding.swipeToLoad.isRefreshing = false
             }
         }
+
+        binding.toolbar.setNavigationOnClickListener {
+            finish()
+        }
+        markAsRead()
     }
 
     private fun listenToMessages() {
@@ -202,7 +208,17 @@ class MessageActivity : AppCompatActivity() {
     }
 
     private fun markAsRead() {
-        setInbox(toUser = currentUid, fromUser = friendId).child("count").setValue(0)
+        setInbox(toUser = currentUid, fromUser = friendId).child("count").get()
+            .addOnSuccessListener {
+                if (it.exists()) {
+                    val count = it.getValue(Int::class.java)!!
+                    if (count > 0) {
+                        Log.d(TAG, "count : ${count}")
+                        setInbox(toUser = currentUid, fromUser = friendId).child("count")
+                            .setValue(0)
+                    }
+                }
+            }
     }
 
     private fun setMessage(friendId: String): DatabaseReference {
