@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat:1.4.2@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/7889a2194ae21c297c766406790560a9/transformed/appcompat-1.4.2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9f3add522e8aedb5c02c0d809b7bcfc4/transformed/appcompat-1.4.2/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/7889a2194ae21c297c766406790560a9/transformed/appcompat-1.4.2/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/7889a2194ae21c297c766406790560a9/transformed/appcompat-1.4.2/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/7889a2194ae21c297c766406790560a9/transformed/appcompat-1.4.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9f3add522e8aedb5c02c0d809b7bcfc4/transformed/appcompat-1.4.2/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9f3add522e8aedb5c02c0d809b7bcfc4/transformed/appcompat-1.4.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9f3add522e8aedb5c02c0d809b7bcfc4/transformed/appcompat-1.4.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

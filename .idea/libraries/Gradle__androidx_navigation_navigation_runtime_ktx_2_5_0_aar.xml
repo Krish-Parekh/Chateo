@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.navigation:navigation-runtime-ktx:2.5.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2d3a4ba3f820babd8945049f8697e935/transformed/navigation-runtime-ktx-2.5.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2d3a4ba3f820babd8945049f8697e935/transformed/navigation-runtime-ktx-2.5.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2d3a4ba3f820babd8945049f8697e935/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/d4dcea2a93e5411aa90e9468189776d8/transformed/navigation-runtime-ktx-2.5.0/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/d4dcea2a93e5411aa90e9468189776d8/transformed/navigation-runtime-ktx-2.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/d4dcea2a93e5411aa90e9468189776d8/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

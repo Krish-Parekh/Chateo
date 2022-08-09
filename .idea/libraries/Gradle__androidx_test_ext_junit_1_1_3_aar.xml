@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.test.ext:junit:1.1.3@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/937349bfbd084b71c859fcc257cccdfc/transformed/jetified-junit-1.1.3/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/91db3649350e266a28857454a141cf8a/transformed/jetified-junit-1.1.3/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/91db3649350e266a28857454a141cf8a/transformed/jetified-junit-1.1.3/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/91db3649350e266a28857454a141cf8a/transformed/jetified-junit-1.1.3/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/981a4f0bc3e336ef0c5fc1eeb2b80bb1/transformed/jetified-junit-1.1.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/981a4f0bc3e336ef0c5fc1eeb2b80bb1/transformed/jetified-junit-1.1.3/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/981a4f0bc3e336ef0c5fc1eeb2b80bb1/transformed/jetified-junit-1.1.3/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/androidx.test.ext/junit/1.1.3/f138cf897cc1e024dd714073df04f2425d845104/junit-1.1.3-javadoc.jar!/" />

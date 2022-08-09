@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.hbb20:ccp:2.6.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/19b372b51478832d3d521eab0f5b3c95/transformed/jetified-ccp-2.6.0/res" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/19b372b51478832d3d521eab0f5b3c95/transformed/jetified-ccp-2.6.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/19b372b51478832d3d521eab0f5b3c95/transformed/jetified-ccp-2.6.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0060dcfb89f7a6e055dc6e4fed204c1e/transformed/jetified-ccp-2.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0060dcfb89f7a6e055dc6e4fed204c1e/transformed/jetified-ccp-2.6.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0060dcfb89f7a6e055dc6e4fed204c1e/transformed/jetified-ccp-2.6.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.hbb20/ccp/2.6.0/4704abc1c0b81d9dfdca2df997a79ffb6e495c75/ccp-2.6.0-javadoc.jar!/" />

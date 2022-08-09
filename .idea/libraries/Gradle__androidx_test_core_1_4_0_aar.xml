@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.test:core:1.4.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/8472e219b034a8305efc48e53fbdad31/transformed/jetified-core-1.4.0/res" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/4b06b6a5996ecd228bebd55483320275/transformed/jetified-core-1.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/4b06b6a5996ecd228bebd55483320275/transformed/jetified-core-1.4.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/4b06b6a5996ecd228bebd55483320275/transformed/jetified-core-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/92856a8e55d1fdffd7dc64ccb014fe80/transformed/jetified-core-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/92856a8e55d1fdffd7dc64ccb014fe80/transformed/jetified-core-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/92856a8e55d1fdffd7dc64ccb014fe80/transformed/jetified-core-1.4.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/androidx.test/core/1.4.0/96b4d161def059d92989a352500d05d215c33d5e/core-1.4.0-javadoc.jar!/" />

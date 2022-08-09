@@ -2,9 +2,10 @@
   <library name="Gradle: com.google.firebase:firebase-storage-ktx:20.0.1@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/49421b1d074a79eec7be805e7ba5b9a7/transformed/jetified-firebase-storage-ktx-20.0.1/res" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/c53c12d6931523291aea2b214513e074/transformed/jetified-firebase-storage-ktx-20.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/c53c12d6931523291aea2b214513e074/transformed/jetified-firebase-storage-ktx-20.0.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/c53c12d6931523291aea2b214513e074/transformed/jetified-firebase-storage-ktx-20.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0cddceea9e0fdb0ae4c268b6d606a355/transformed/jetified-firebase-storage-ktx-20.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0cddceea9e0fdb0ae4c268b6d606a355/transformed/jetified-firebase-storage-ktx-20.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0cddceea9e0fdb0ae4c268b6d606a355/transformed/jetified-firebase-storage-ktx-20.0.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.google.firebase/firebase-storage-ktx/20.0.1/786547144e4d4d3459296cc8954a23b3a6f496f4/firebase-storage-ktx-20.0.1-javadoc.jar!/" />

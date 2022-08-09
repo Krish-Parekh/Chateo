@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/17ee5a1839554ab1d0e591384a8c346e/transformed/viewpager-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/bb0920c9f9e83a3bf60a9d046a14f6b3/transformed/viewpager-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/bb0920c9f9e83a3bf60a9d046a14f6b3/transformed/viewpager-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/bb0920c9f9e83a3bf60a9d046a14f6b3/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/5ac07616d0d8076ac48833ea8061dd80/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/5ac07616d0d8076ac48833ea8061dd80/transformed/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/5ac07616d0d8076ac48833ea8061dd80/transformed/viewpager-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.navigation:navigation-ui:2.5.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0e04e4e6e8f2fda916844a83d7d2a1bc/transformed/navigation-ui-2.5.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0e04e4e6e8f2fda916844a83d7d2a1bc/transformed/navigation-ui-2.5.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/0e04e4e6e8f2fda916844a83d7d2a1bc/transformed/navigation-ui-2.5.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6d63a78170e85532013572bd89344a1f/transformed/navigation-ui-2.5.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6d63a78170e85532013572bd89344a1f/transformed/navigation-ui-2.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6d63a78170e85532013572bd89344a1f/transformed/navigation-ui-2.5.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

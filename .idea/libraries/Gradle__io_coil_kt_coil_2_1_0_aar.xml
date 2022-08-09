@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/efd23112e53682437a5ca9802c7ec93a/transformed/jetified-coil-2.1.0/res" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/914d3ba6418bf495ab36254bce27614d/transformed/jetified-coil-2.1.0/res" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/914d3ba6418bf495ab36254bce27614d/transformed/jetified-coil-2.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/914d3ba6418bf495ab36254bce27614d/transformed/jetified-coil-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/f793ce1da0cb17bc3125eeed107b62fb/transformed/jetified-coil-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/f793ce1da0cb17bc3125eeed107b62fb/transformed/jetified-coil-2.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/f793ce1da0cb17bc3125eeed107b62fb/transformed/jetified-coil-2.1.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/io.coil-kt/coil/2.1.0/45d82140ca5ddec8e229c2824b5e4d1d7ab1f55a/coil-2.1.0-javadoc.jar!/" />

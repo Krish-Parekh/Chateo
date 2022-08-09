@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core-ktx:1.8.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/465078dc1547f96d504613bdb98f094c/transformed/jetified-core-ktx-1.8.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/465078dc1547f96d504613bdb98f094c/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/465078dc1547f96d504613bdb98f094c/transformed/jetified-core-ktx-1.8.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9b9a1ed0d10ba0bc5d68c4526703d31d/transformed/jetified-core-ktx-1.8.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9b9a1ed0d10ba0bc5d68c4526703d31d/transformed/jetified-core-ktx-1.8.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9b9a1ed0d10ba0bc5d68c4526703d31d/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

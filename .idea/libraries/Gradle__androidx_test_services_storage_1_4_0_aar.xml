@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.test.services:storage:1.4.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/1dfe40ec59a031def5e5f6c2a43e6085/transformed/jetified-storage-1.4.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6798c2935e6d08ae1f72a30ded0b3e36/transformed/jetified-storage-1.4.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6798c2935e6d08ae1f72a30ded0b3e36/transformed/jetified-storage-1.4.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6798c2935e6d08ae1f72a30ded0b3e36/transformed/jetified-storage-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a49a2feb5f7937300ff417db5fd13a7d/transformed/jetified-storage-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a49a2feb5f7937300ff417db5fd13a7d/transformed/jetified-storage-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a49a2feb5f7937300ff417db5fd13a7d/transformed/jetified-storage-1.4.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

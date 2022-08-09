@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.recyclerview:recyclerview:1.2.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/097fd357c117ae9177426cfb9f6f05ac/transformed/recyclerview-1.2.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/a0420f613a91c6c132b36b62c1a74c59/transformed/recyclerview-1.2.1/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/097fd357c117ae9177426cfb9f6f05ac/transformed/recyclerview-1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/097fd357c117ae9177426cfb9f6f05ac/transformed/recyclerview-1.2.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/097fd357c117ae9177426cfb9f6f05ac/transformed/recyclerview-1.2.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

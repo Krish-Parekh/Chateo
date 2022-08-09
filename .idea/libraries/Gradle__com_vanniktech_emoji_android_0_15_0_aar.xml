@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.vanniktech:emoji-android:0.15.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/1aed69e1b5a066caa7fa2338e7df881d/transformed/jetified-emoji-release/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/1aed69e1b5a066caa7fa2338e7df881d/transformed/jetified-emoji-release/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/1aed69e1b5a066caa7fa2338e7df881d/transformed/jetified-emoji-release/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9a4628744c580f721335209055b94e7e/transformed/jetified-emoji-release/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9a4628744c580f721335209055b94e7e/transformed/jetified-emoji-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9a4628744c580f721335209055b94e7e/transformed/jetified-emoji-release/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.vanniktech/emoji-android/0.15.0/efd997165d2c131be788c8f885947864486a77ee/emoji-android-0.15.0-javadoc.jar!/" />

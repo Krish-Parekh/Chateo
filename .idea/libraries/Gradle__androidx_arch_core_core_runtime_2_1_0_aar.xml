@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/c4ce27ddf8bbafb875cd9fea07dcba23/transformed/core-runtime-2.1.0/res" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/05da9c23e75490e1d11112d2e297414b/transformed/core-runtime-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/05da9c23e75490e1d11112d2e297414b/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/05da9c23e75490e1d11112d2e297414b/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b56854d94b7fda6fe051ef49c4fd6641/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b56854d94b7fda6fe051ef49c4fd6641/transformed/core-runtime-2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b56854d94b7fda6fe051ef49c4fd6641/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

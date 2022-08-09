@@ -1,13 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.print:print:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/af363d8ac693ea33a7beec9bf629c7c0/transformed/print-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b7e96278c6b607533ec4026360179607/transformed/print-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/33a967aef75df91690bc905ee050cd2c/transformed/print-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/af363d8ac693ea33a7beec9bf629c7c0/transformed/print-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/af363d8ac693ea33a7beec9bf629c7c0/transformed/print-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/af363d8ac693ea33a7beec9bf629c7c0/transformed/print-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b7e96278c6b607533ec4026360179607/transformed/print-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b7e96278c6b607533ec4026360179607/transformed/print-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/b7e96278c6b607533ec4026360179607/transformed/print-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

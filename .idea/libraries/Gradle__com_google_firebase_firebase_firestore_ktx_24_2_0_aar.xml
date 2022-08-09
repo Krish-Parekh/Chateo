@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-firestore-ktx:24.2.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2b97df163c75a258a8c1eef731cffe5d/transformed/jetified-firebase-firestore-ktx-24.2.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2b97df163c75a258a8c1eef731cffe5d/transformed/jetified-firebase-firestore-ktx-24.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2b97df163c75a258a8c1eef731cffe5d/transformed/jetified-firebase-firestore-ktx-24.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/87b28caaf4bb8ec00889c01ccef51307/transformed/jetified-firebase-firestore-ktx-24.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/87b28caaf4bb8ec00889c01ccef51307/transformed/jetified-firebase-firestore-ktx-24.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/87b28caaf4bb8ec00889c01ccef51307/transformed/jetified-firebase-firestore-ktx-24.2.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore-ktx/24.2.0/c292df37cad148275ffc9b0057e9d5d413301695/firebase-firestore-ktx-24.2.0-javadoc.jar!/" />

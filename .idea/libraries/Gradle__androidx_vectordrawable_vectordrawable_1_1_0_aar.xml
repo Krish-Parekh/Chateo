@@ -2,9 +2,10 @@
   <library name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/9a91e4b764c49ed4006c5b52d9182c16/transformed/vectordrawable-1.1.0/res" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/977d683273ee72bbc4778370e64e408c/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/977d683273ee72bbc4778370e64e408c/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/977d683273ee72bbc4778370e64e408c/transformed/vectordrawable-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/be0cac0595c2f2e861488484ae867b9a/transformed/vectordrawable-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/be0cac0595c2f2e861488484ae867b9a/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/be0cac0595c2f2e861488484ae867b9a/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

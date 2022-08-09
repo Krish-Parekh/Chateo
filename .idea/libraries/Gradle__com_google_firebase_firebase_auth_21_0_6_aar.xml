@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-auth:21.0.6@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/92c292da2204b253ac3ace283b8bdfe9/transformed/jetified-firebase-auth-21.0.6/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/92c292da2204b253ac3ace283b8bdfe9/transformed/jetified-firebase-auth-21.0.6/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/92c292da2204b253ac3ace283b8bdfe9/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/eb96d376d281261bfb53570713afccd5/transformed/jetified-firebase-auth-21.0.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/eb96d376d281261bfb53570713afccd5/transformed/jetified-firebase-auth-21.0.6/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/eb96d376d281261bfb53570713afccd5/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.google.firebase/firebase-auth/21.0.6/3698692950ae3201bb4b9b15b079eb73e6d64364/firebase-auth-21.0.6-javadoc.jar!/" />

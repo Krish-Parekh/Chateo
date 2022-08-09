@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: io.coil-kt:coil-base:2.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/e36a58cee2eb8ae53b273cc28f78b71a/transformed/jetified-coil-base-2.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/e36a58cee2eb8ae53b273cc28f78b71a/transformed/jetified-coil-base-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/e36a58cee2eb8ae53b273cc28f78b71a/transformed/jetified-coil-base-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/e91e486a32c3744b06a90c5da83a30db/transformed/jetified-coil-base-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/e91e486a32c3744b06a90c5da83a30db/transformed/jetified-coil-base-2.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/e91e486a32c3744b06a90c5da83a30db/transformed/jetified-coil-base-2.1.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/io.coil-kt/coil-base/2.1.0/eac17711898d46a13f93fbb4be11db01cce194a4/coil-base-2.1.0-javadoc.jar!/" />

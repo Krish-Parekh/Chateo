@@ -2,6 +2,7 @@ package com.krish.chateo.message
 
 import android.os.Bundle
 import android.util.Log
+import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import androidx.navigation.navArgs
@@ -54,10 +55,23 @@ class MessageActivity : AppCompatActivity() {
         keyboardVisibilityHelper = KeyboardVisibilityUtil(binding.root) {
             binding.rvMessage.scrollToPosition(messageList.size - 1)
         }
+
         val emojiPopup = EmojiPopup(binding.root, binding.etMessageBox)
         binding.emojiBtn.setOnClickListener {
             emojiPopup.toggle()
         }
+
+        fireStore.collection("users").document(friendId)
+            .addSnapshotListener { value, error ->
+                val friendObj = value?.toObject(User::class.java)!!
+                Log.d(TAG, "initViews: ${friendObj}, $error")
+                if(friendObj.onlineStatus){
+                    binding.tvUserStatus.visibility = View.VISIBLE
+                    binding.tvUserStatus.text = "Online"
+                }else{
+                    binding.tvUserStatus.visibility = View.GONE
+                }
+            }
 
         // getting the current user details
         fireStore.collection("users").document(currentUid).get()
@@ -213,7 +227,7 @@ class MessageActivity : AppCompatActivity() {
                 if (it.exists()) {
                     val count = it.getValue(Int::class.java)!!
                     if (count > 0) {
-                        Log.d(TAG, "count : ${count}")
+                        Log.d(TAG, "count : $count")
                         setInbox(toUser = currentUid, fromUser = friendId).child("count")
                             .setValue(0)
                     }

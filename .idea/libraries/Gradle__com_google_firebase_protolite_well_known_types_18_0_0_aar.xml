@@ -3,8 +3,9 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/1ee3b07918cfae8fa1e870b4f2c8672c/transformed/jetified-protolite-well-known-types-18.0.0/res" />
       <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6fd4e18ea8c25df5a72360ccec2e1763/transformed/jetified-protolite-well-known-types-18.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6fd4e18ea8c25df5a72360ccec2e1763/transformed/jetified-protolite-well-known-types-18.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/6fd4e18ea8c25df5a72360ccec2e1763/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2ea66106323cd935f0a42d2253653a34/transformed/jetified-protolite-well-known-types-18.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2ea66106323cd935f0a42d2253653a34/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/2ea66106323cd935f0a42d2253653a34/transformed/jetified-protolite-well-known-types-18.0.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.google.firebase/protolite-well-known-types/18.0.0/8e15c66257eefa93807e8dc218bf82da40c5390c/protolite-well-known-types-18.0.0-javadoc.jar!/" />

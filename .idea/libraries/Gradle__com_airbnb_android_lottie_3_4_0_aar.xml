@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.airbnb.android:lottie:3.4.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/10fd82b9340058930c159080f59ee5a2/transformed/jetified-lottie-3.4.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/f8a1c41b50302b3aa71ff7fbce80890d/transformed/jetified-lottie-3.4.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/10fd82b9340058930c159080f59ee5a2/transformed/jetified-lottie-3.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/10fd82b9340058930c159080f59ee5a2/transformed/jetified-lottie-3.4.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/10fd82b9340058930c159080f59ee5a2/transformed/jetified-lottie-3.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/f8a1c41b50302b3aa71ff7fbce80890d/transformed/jetified-lottie-3.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/f8a1c41b50302b3aa71ff7fbce80890d/transformed/jetified-lottie-3.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../TheHappyHelpers/caches/transforms-3/f8a1c41b50302b3aa71ff7fbce80890d/transformed/jetified-lottie-3.4.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../TheHappyHelpers/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.4.0/fc9356b6ab72bf1b6f1eba1324567660d7412c82/lottie-3.4.0-javadoc.jar!/" />
